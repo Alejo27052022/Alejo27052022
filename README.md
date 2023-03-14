@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm Stalin Consuegra 👋💻🇪🇨 </h1>
 
-<!--
-**Alejo27052022/Alejo27052022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Student in Developer FullStack </h3>
 
-Here are some ideas to get you started:
+<span aling="left">
+   <br>
+   <img align="right" alt="GIF" height=300px width= 400px src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+   <p>
+    <ul>
+      <li> 🌱 I'm currently studing and learning as a FullStack developer in Espoch </li>
+      <br/>
+      <li> 😄 I'm currently have skills in FrontEnd and BackEnd </li>
+      <br/>
+      <li> 👯 I am looking to collaborate with a company where I can apply my skills. </li>
+    </ul> 
+  </p>
+</span>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3 style="text-align: center;"> ¡Contact Me! 🤝 </h3>
+  <a href="https://www.linkedin.com/in/stalin-consuegra-8b9355259/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=40px height=40px alt="LINKEDIN"> </a>
+  <a href="https://github.com/Alejo27052022"> <img src="https://img.icons8.com/color/512/github--v1.png" width=40px height=40px> </a>
+</div>
