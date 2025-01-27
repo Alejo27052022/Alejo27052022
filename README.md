@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Stalin Consuegra 👋💻🇪🇨 </h1>
 
-<h3 align="center"> Student in Developer FullStack </h3>
+<h3 align="center"> Developer FrontEnd </h3>
 
 <span aling="left">
    <br>
